@@ -14,6 +14,7 @@ brew install Azure/kubelogin/kubelogin
 brew install --cask keepassxc
 brew install --cask obsidian
 brew install --cask dbeaver-community
+brew install jq
 
 USGerman Keyboard Layout
 https://github.com/patrick-zippenfenig/us-with-german-umlauts
