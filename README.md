@@ -8,3 +8,6 @@ https://www.jimbobbennett.io/open-anything-in-vs-code-using-a-macos-quick-action
 
 ## Links
 https://www.maceinsteiger.de/mac-os-shortcuts/
+
+
+MAC Tastatuskurzbefehle: Command + Leertaste bei Eingabemethode deaktivieren

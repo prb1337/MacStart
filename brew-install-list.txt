@@ -15,6 +15,17 @@ brew install --cask keepassxc
 brew install --cask obsidian
 brew install --cask dbeaver-community
 brew install jq
+brew install fzf
+brew install fd
+brew install bat
+brew install git-delta
+brew install eza
+brew install tlrc
+brew install thefuck
+brew install homebrew/cask-fonts
+brew install font-meslo-lg-nerd-font
+brew install ripgrep
+
 
 USGerman Keyboard Layout
 https://github.com/patrick-zippenfenig/us-with-german-umlauts
@@ -29,6 +40,8 @@ https://github.com/romkatv/powerlevel10k
 
 Git config:
 - Set email and name
+
+fzf use with https://github.com/junegunn/fzf-git.sh.git
 
 
 vscode:
